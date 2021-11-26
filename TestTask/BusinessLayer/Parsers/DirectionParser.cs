@@ -24,22 +24,5 @@ namespace BusinessLayer.Parsers
 
             throw new InvalidOperationException();
         }
-
-        public static string Parse(Direction direction)
-        {
-            switch (direction)
-            {
-                case Direction.North:
-                    return "N";
-                case Direction.South:
-                    return "S";
-                case Direction.West:
-                    return "W";
-                case Direction.East:
-                    return "E";
-            }
-
-            throw new InvalidOperationException();
-        }
     }
 }
