@@ -1,0 +1,11 @@
+h2{
+    padding:0 0 10x 0;
+}
+p{
+    margin-bottom: 20px;
+    line-height: 1.6em;
+}
+.custom-wrapper {
+    padding: 24px;
+    background: #fff;
+}

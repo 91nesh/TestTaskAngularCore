@@ -1,0 +1,92 @@
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\appsettings.Development.json
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\appsettings.json
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.exe
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.deps.json
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.json
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.dev.json
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.dll
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\ref\TestTask.dll
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.pdb
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.AssemblyReference.cache
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfoInputs.cache
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfo.cs
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.CoreCompileInputs.cache
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.MvcApplicationPartsAssemblyInfo.cs
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.MvcApplicationPartsAssemblyInfo.cache
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\staticwebassets\TestTask.StaticWebAssets.Manifest.cache
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\staticwebassets\TestTask.StaticWebAssets.xml
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\scopedcss\bundle\TestTask.styles.css
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.RazorTargetAssemblyInfo.cache
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.dll
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\ref\TestTask.dll
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.pdb
+F:\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.genruntimeconfig.cache
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\BusinessLayer.dll
+F:\TestTask\TestTask\TestTask\bin\Debug\net5.0\BusinessLayer.pdb
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.pdb
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\appsettings.Development.json
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\appsettings.json
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\TestTask.exe
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\TestTask.deps.json
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.json
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.dev.json
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\TestTask.dll
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\ref\TestTask.dll
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\TestTask.pdb
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\BusinessLayer.dll
+E:\Test Task Fornt End\TestTask\TestTask\bin\Debug\net5.0\BusinessLayer.pdb
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.AssemblyReference.cache
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfoInputs.cache
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfo.cs
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.CoreCompileInputs.cache
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.MvcApplicationPartsAssemblyInfo.cs
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.MvcApplicationPartsAssemblyInfo.cache
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\staticwebassets\TestTask.StaticWebAssets.Manifest.cache
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\staticwebassets\TestTask.StaticWebAssets.xml
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\scopedcss\bundle\TestTask.styles.css
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.RazorTargetAssemblyInfo.cache
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.CopyComplete
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.dll
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\ref\TestTask.dll
+E:\Test Task Fornt End\TestTask\TestTask\obj\Debug\net5.0\TestTask.genruntimeconfig.cache
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\appsettings.Development.json
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\appsettings.json
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\TestTask.exe
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\TestTask.deps.json
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.json
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.dev.json
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\TestTask.dll
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\ref\TestTask.dll
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\TestTask.pdb
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\BusinessLayer.dll
+E:\TestTaskAngularCore\TestTask\TestTask\bin\Debug\net5.0\BusinessLayer.pdb
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.AssemblyReference.cache
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfoInputs.cache
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfo.cs
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.CoreCompileInputs.cache
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.MvcApplicationPartsAssemblyInfo.cs
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.MvcApplicationPartsAssemblyInfo.cache
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\staticwebassets\TestTask.StaticWebAssets.Manifest.cache
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\staticwebassets\TestTask.StaticWebAssets.xml
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\scopedcss\bundle\TestTask.styles.css
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.RazorTargetAssemblyInfo.cache
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.CopyComplete
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.dll
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\ref\TestTask.dll
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.pdb
+E:\TestTaskAngularCore\TestTask\TestTask\obj\Debug\net5.0\TestTask.genruntimeconfig.cache

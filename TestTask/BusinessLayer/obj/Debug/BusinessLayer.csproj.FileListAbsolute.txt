@@ -1,0 +1,30 @@
+C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\lcom1\Downloads\martianrobot-master\martianrobot-master\MartianRobotWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\lcom1\Downloads\martianrobot-master\martianrobot-master\MartianRobotWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\lcom1\Downloads\martianrobot-master\martianrobot-master\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\lcom1\Downloads\martianrobot-master\martianrobot-master\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lcom1\Downloads\martianrobot-master\martianrobot-master\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\lcom1\Downloads\martianrobot-master\martianrobot-master\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\TestTask\TestTaskWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\TestTask\TestTaskWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\TestTask\TestTaskWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+F:\TestTask\TestTaskWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\TestTask\TestTaskWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\TestTask\TestTaskWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\TestTask\TestTask\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\TestTask\TestTask\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\TestTask\TestTask\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+F:\TestTask\TestTask\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\TestTask\TestTask\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\TestTask\TestTask\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Test Task Fornt End\TestTask\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Test Task Fornt End\TestTask\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Test Task Fornt End\TestTask\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\Test Task Fornt End\TestTask\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Test Task Fornt End\TestTask\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Test Task Fornt End\TestTask\BusinessLayer\obj\Debug\BusinessLayer.pdb

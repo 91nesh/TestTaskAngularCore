@@ -1,0 +1,31 @@
+.box{
+
+    padding:30px 30px 15px 30px;
+    background-color: #fff;
+    margin-bottom:30px;
+
+}
+
+table tr{
+    border: 1px solid black;
+}
+table tr td{
+ border-right: 1px solid #000;
+}
+td{
+    padding:8px;
+}
+
+::ng-deep #Submit{
+    padding:20px !important;
+}
+
+.container{
+    width:100% !important;
+    height:100% !important;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }

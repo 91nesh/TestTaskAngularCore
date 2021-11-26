@@ -1,0 +1,20 @@
+table tr th {
+    border: 1px solid black;
+}
+
+/* tr{
+    border: 1px solid black;
+} */
+
+table td{
+    padding:6px !important;
+}
+
+td{
+    border: 1px solid black;
+}
+
+.custom-wrapper {
+    padding: 24px;
+    background: #fff;
+}

@@ -1,0 +1,39 @@
+<div class="container custom-wrapper">
+    <h2>SubmitPlateau</h2>
+    <form [formGroup]="robotDataForm" (ngSubmit)="addRobot()">
+        <table style="border:1px solid black">
+            <tr>
+                <td>Enter robot position</td>
+                <td><input id="xydirection" name="xydirection" type="text" value="'1 1 E'" formControlName="position" />
+                </td>
+            </tr>
+            <tr>
+                <td>Enter Movements</td>
+                <td><input id="movements" name="movements" placeholder="Enter Capital(L,R,F) only" type="text" value="LRFLF" (keypress)="allowChar($event)" autocomplete="off" (paste)="$event.preventDefault()" formControlName="movements" #move /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Add Robot"></td>
+            </tr>
+        </table>
+    </form>
+
+    <p>Alternatively, if you have added enough robots, please<button type="button" class="btn btn-link"
+            (click)="robotResult()" [disabled]="isDisable">Start Exploration</button>
+    <p>
+
+    <h2>Current Robots</h2>
+    <table>
+        <tr>
+            <th>&nbsp;&nbsp;X&nbsp;&nbsp;</th>
+            <th>&nbsp;&nbsp;Y&nbsp;&nbsp;</th>
+            <th>&nbsp;&nbsp;Direction&nbsp;&nbsp;</th>
+            <th>&nbsp;&nbsp;Movements&nbsp;&nbsp;</th>
+        </tr>
+        <tr *ngFor="let robot of robotInfoArray">
+            <td>{{robot.x}}</td>
+            <td>{{robot.y}}</td>
+            <td>{{robot.direction}}</td>
+            <td>{{robot.movements}}</td>
+        </tr>
+    </table>
+</div>
